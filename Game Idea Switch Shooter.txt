@@ -1,0 +1,31 @@
+First Person Shooter
+Light Puzzle Elements
+
+-Player transports to position of enemy he just killed every time.
+-Player regains a bit of health with each transfer
+-Player retains weapons and ammo through transfer?
+
+		OR
+-Player recieves health of enemy he just became
+-More damage to enemies means less health when you become that enemy
+
+
+Enemies:
+
+Basic
+-Low damage
+-Dies as soon as player leaves body
+
+Advance
+-Moderate Damage (shotgun?)
+-Stays alive even after you've left, (requires two transfers)
+
+Suicider
+-Explodes when near player
+-Explodes after certain amount of time when player has possessed them 
+
+Heavy
+-Slow move speed
+-Lots of health
+-Most damaging weapons
+	

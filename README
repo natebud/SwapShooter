@@ -1,0 +1,8 @@
+This is a prototype first-person shooter written in C# and created in the Unity engine where the primary feature is that the player
+takes control of the last enemy shot. Development is ongoing and many of the current systems need to be polished and trimmed. All visuals
+and sounds are placeholders.
+
+This game was originally created as in a group class project. All previous working versions and changes can be viewed in the following 
+repository:
+
+https://github.com/rm21845/themysterymachine
